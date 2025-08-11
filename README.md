@@ -9,11 +9,6 @@ This sample demonstrates how to implement a `TabRow` with icons and text, fully 
 - **Material 3** layout with `Scaffold` and `TopAppBar`.
 - **Enum-based tab definitions** for clean and maintainable code.
 
-## Screenshots
-> *(Add your screenshot here)*
->
-> ![Screenshot Placeholder](docs/screenshot.png)
-
 ## How It Works
 - Tabs are defined in the `HomeTabs` enum, each with a selected icon, unselected icon, and label.
 - `rememberPagerState` manages the pager’s current page count and state.
